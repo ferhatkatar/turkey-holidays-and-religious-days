@@ -4,8 +4,14 @@
 
 ## Table Of Contents
 
-[TOC]
-
+- [Description](#description)
+- [Features](#features)
+- [Usage](#usage)
+  - [Prerequisites](#prerequisites)
+  - [How To Run](#how-to-run)
+- [Project Structure](#project-structure)
+- [Dataset Overview](#dataset-overview)
+- [Additional Information](#additional-information)
 ---------------------------------------------------------------------
 
 ## Description
